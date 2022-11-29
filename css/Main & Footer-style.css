@@ -1,0 +1,383 @@
+
+
+body {
+    margin: 0;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    font-size: 17px;
+    color: #f5f5f7;
+}
+
+/* Unicef Section--------------------------------------------------------*/
+
+main {
+    background-color: #fbfbfd;
+
+}
+
+.unicef {
+    padding: 64px 0 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.unicef a {
+    text-decoration: none;
+    color: #0066CC;
+    margin-left: 14px;
+    font-size: 14px;
+}
+
+#unicef-bild {
+    width: 122px;
+    height: 32px;
+}
+
+
+/* Iphone 14 Pro (svart bakgrund)----------------------------------------*/
+
+.iphone-14-svart{
+    background-color: #000;
+    color: #f5f5f7;
+    height: 580px;
+}
+
+.iphone-14-svart-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.headline{
+    font-size: 52px;
+    font-weight: 600;
+    margin: 0;
+    padding-top: 47px;
+}
+
+.subhead{
+    font-size: 26px;
+    font-weight: 500;
+    margin: 7px;
+}
+
+.avail{
+    color: #86868b;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 6px 0px 10px 0px;
+}
+
+.iphone14links{
+    color:#06c;
+    font-size: 20px;
+    text-decoration: none;
+}
+.iphone14links:hover{
+    text-decoration: underline;
+}
+
+
+.iphone14pro-image{
+    width: 460px;
+    margin-top: 37px;
+}
+
+/*Iphone 14 (vit bakgrund)-----------------------------------------------*/
+
+.iphone-14-vit{
+    height: 580px;
+    background-color: #f7f7f7;
+    margin-bottom: 10px;
+}
+
+.iphone-14-vit-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.headline-vit{
+    font-size: 52px;
+    font-weight: 600;
+    margin: 0;
+    padding-top: 58px;
+    color: #000;
+}
+
+.subhead-vit{
+    font-size: 26px;
+    font-weight: 500;
+    margin: 5px;
+    color: #000;
+}
+
+.avail-vit{
+    color: #86868b;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 9px 0px 0px 0px;
+}
+
+.plus-avail-vit{
+    color: #86868b;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+
+.iphone14links-vit{
+    text-decoration: none;
+    font-size: 19px;
+}
+
+.iphone14links-vit:hover{
+    text-decoration: underline;
+}
+.iphone14links-vit:visited{
+    color: #2997FF;
+}
+
+.iphone14-image{
+    width: 353px;
+    margin-top: 5px;
+}
+
+
+
+/*Watches section: left and right----------------------------------------*/
+.watches-section{
+    display: flex;
+    flex-direction: row;
+}
+
+/*Watches section: left*/
+.watch-left{
+    margin: 0px 5px 10px 10px;
+    background-color: #f7f7f7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+.watch-left-logo{
+    margin-top: 60px;
+}
+
+.headline-left-watch{
+    font-size: 19px;
+    line-height: 1.21053;
+    font-weight: 400;
+    margin: 0;
+    margin-top: 9px;
+    color: #000;
+}
+
+.avail-left-watch{
+    color: #86868b;
+    margin: 9px auto 0.7em auto;
+    line-height: 1.47059;
+    font-weight: 400;
+}
+
+.watch-left-links{
+    text-decoration: none;
+    color: #06c;
+    line-height: 1.23536;
+    font-weight: 400;
+}
+
+.watch-left-image{
+    width: 530px;
+    margin-top: 178px;
+}
+
+/*Watches section: right*/
+.watch-right{
+    margin: 0px 10px 10px 5px;
+    background-color: #000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    min-width: 0;
+}
+
+.watch-right-logo{
+    margin-top: 60px;
+}
+
+.headline-right-watch{
+    font-size: 19px;
+    line-height: 1.21053;
+    font-weight: 400;
+    margin: 0;
+    margin-top: 9px;
+    color: white;
+}
+
+.avail-right-watch{
+    color: #86868b;
+    margin: 9px auto 0.7em auto;
+    line-height: 1.47059;
+    font-weight: 400;
+}
+
+.watch-right-links{
+    text-decoration: none;
+    color: #2997FF;
+    line-height: 1.23536;
+    font-weight: 400;
+}
+
+.watch-right-image{
+    width: 350px;
+    margin-top: 123px;
+}
+
+
+/*Footer----------------------------------------------------------------*/
+/*Footer text top part*/
+
+footer{
+    background-color: #f7f7f7;
+}
+
+.footer-container{
+    max-width: 980px;
+    margin: 0px auto;
+}
+
+.footer-top ul{
+    margin: 0;
+    padding: 0;
+}
+
+.footer-top ul li{
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    list-style: none;
+    color: #6e6e73;
+    padding: 0px 0px 9.6px 0px;
+}
+
+/*Footer links bottom part*/
+
+.footer-bottom{
+    border-top: 1px solid #d2d2d7;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+}
+
+.footer-bottom-cols {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.footer-bottom-cols ul{
+    list-style: none;
+    margin: 0px 0px 0px 0px;
+    padding: 0;
+}
+.footer-bottom-cols ul li{
+    margin-bottom: 9.6px;
+}
+
+.footer-bottom-cols ul li b{
+    color: #1d1d1f;
+}
+
+.footer-bottom-cols ul li a{
+    text-decoration: none;
+    color: #424245;
+}
+
+.footer-bottom-cols ul li a:hover{
+    text-decoration: underline;
+}
+
+.footer-bottom-col4-foreducation{
+    padding-top: 24px;
+}
+
+/*Footer end------------------------------------------------------------*/
+
+.footer-end{
+    padding: 34px 0px 21px;
+}
+
+/*Footer-end-top*/
+
+.footer-end-top{
+    margin-bottom: 7px;
+    padding-bottom: 8px;
+    font-size: 12px;
+    color: #6e6e73;
+    border-bottom: 1px solid #d2d2d7;
+}
+
+.footer-end-top a{
+    text-decoration: none;
+    color: #0066CC;
+}
+.footer-end-top a:hover{
+    text-decoration:underline;
+}
+
+/*Footer-end-bottom*/
+
+.footer-end-bottom{
+    display: flex;
+}
+
+.footer-copyright-US{
+    float: right;
+}
+.footer-copyright-US a{
+    color: #424245;
+    font-size: 12px;
+    text-decoration: none;
+}
+.footer-copyright-US a:hover{
+    text-decoration: underline;
+}
+
+.footer-copyright{
+    color: #6e6e73;
+    font-size: 12px;
+    margin: 5px 30px 0px 0px;
+}
+
+.footer-privacypolicy{
+    display: flex;
+    margin: 5px 30px 0px 0px;
+    float: left;
+    position: relative;
+    top: -5px;
+    z-index: 1;
+    font-size: 12px;
+}
+
+.footer-privacypolicy a{
+    text-decoration: none;
+    margin: 5px 7px 0px 0px;
+    padding: 0px 10px 0px 0px;
+    color: #424245;
+    border-right: 1px solid #d2d2d7;
+}
+.footer-privacypolicy a:hover{
+    text-decoration: underline;
+}
+
+

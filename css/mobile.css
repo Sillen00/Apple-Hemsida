@@ -1,0 +1,67 @@
+
+/* Removes webb navbar */
+.nav-container, .webb-links {
+    display: none;
+}
+
+
+/* Putting navbar behind icons */
+.nav-mobile, .nav-container /*.link-bar, .link-logo*/ {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* corretction icon-placment */
+.nav-mobile {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+    list-style: none;
+    align-items: center;
+}
+
+
+/* UNICEF Moves unicef link down*/
+
+.unicef a span{
+    display: block;
+}
+.unicef a{
+    text-align: center;
+    margin-top: 7px;
+}
+
+.unicef{
+    flex-direction: column;
+}
+
+/* IPHONE 14 PRO SVART - IMAGE */
+.iphone14pro-image{
+    width: 310px;
+    margin-top:158px;
+}
+
+
+
+/* WATCHES From rows to column*/
+
+.watches-section{
+    flex-direction: column;
+}
+
+.watch-left{
+    margin: 0 0 10px 0;
+}
+.watch-right{
+    margin: 0 0 20px 0;
+}
+
+/* FOOTER "or call 1-800-MY-APPLE." jump to its own line. */
+
+.footer-end-top span{
+    display: block;
+}
+
