@@ -1,5 +1,6 @@
 https://www.apple.com/
 
+Link to copy (here)[https://sillen00.github.io/Apple-Hemsida/]
 
 Apple.com - Copy - By Simon Bengtsson & Thomas Ingvarsson
 
