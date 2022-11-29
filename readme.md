@@ -1,4 +1,4 @@
-https://www.apple.com/
+https://www.apple.com/ (Apple website outdated)
 
 Link to copy [here](https://sillen00.github.io/Apple-Hemsida/).
 
