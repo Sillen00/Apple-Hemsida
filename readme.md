@@ -4,6 +4,7 @@ Link to copy [here](https://sillen00.github.io/Apple-Hemsida/).
 
 Apple.com - Copy - By Simon Bengtsson & Thomas Ingvarsson
 
+HTML and CSS Ecersice. Copy Apple website. 
 
 Vi har valt apple.coms startsida som projekt med följande avgränsningar:
 
