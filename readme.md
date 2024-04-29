@@ -19,3 +19,5 @@ Animationer för ikoner och deras egenskaper ej aktiva (dock hover effekten)
 * Vi har andvänt färre bilder då upplägget på sidan repeterar sig.
 
 * Har ej med alla länkar på footern.
+
+![image](https://github.com/Sillen00/Apple-Hemsida/assets/114336470/4aedb74f-4728-486c-97a7-2249a70ca826)
